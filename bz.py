@@ -1,6 +1,6 @@
 import time
 
-user = input("qui veut tu que je baise : ")
+user = input("qui veut tu que je bz : ")
 
 def baise(user):
     print("Je déshabille "+str(user))
@@ -14,12 +14,12 @@ def baise(user):
     print("Je sniff mon doigt")
     print("\x1B[3m ça pue... \x1B[0m")
     time.sleep(4)
-    print("Je sors ma bite et je commence à exiter "+str(user))
+    print("Je sors ma beuteu et je commence à exiter "+str(user))
     time.sleep(5)
-    print("j'enfonce ma bite et j'accélere petit à petit dans le cul de "+str(user))
+    print("j'enfonce ma beuteu et j'accélere petit à petit dans le cul de "+str(user))
     print(user + " jouie")
     time.sleep(8)
-    print("J'éjacule dans le cul de "+str(user))
+    print("J'éjac dans le fiak de "+str(user))
     print("\x1B[3m #creampie \x1B[0m")
     time.sleep(4)
     print(user + " se retourne pour me sucer")
